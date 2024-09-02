@@ -1,0 +1,7315 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4400 Schöneberg",
+        "color": "#f00505",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-01716369652469",
+        "OBJECTID": 1,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.356239,
+              52.484559
+            ],
+            [
+              13.357172,
+              52.483895
+            ],
+            [
+              13.357859,
+              52.484232
+            ],
+            [
+              13.356883,
+              52.484935
+            ],
+            [
+              13.356239,
+              52.484559
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 2,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1300 Prenzlauer Berg ",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-11716369652469",
+        "OBJECTID": 2,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.406486,
+              52.540594
+            ],
+            [
+              13.405765,
+              52.539878
+            ],
+            [
+              13.406939,
+              52.539458
+            ],
+            [
+              13.407794,
+              52.540312
+            ],
+            [
+              13.406526,
+              52.540636
+            ],
+            [
+              13.406486,
+              52.540594
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 3,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1200 Friedrichshain",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-21716369652469",
+        "OBJECTID": 3,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.443151,
+              52.51198
+            ],
+            [
+              13.443564,
+              52.511686
+            ],
+            [
+              13.444611,
+              52.51131
+            ],
+            [
+              13.445013,
+              52.51118
+            ],
+            [
+              13.445356,
+              52.511314
+            ],
+            [
+              13.446273,
+              52.511673
+            ],
+            [
+              13.445388,
+              52.512666
+            ],
+            [
+              13.443151,
+              52.51198
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 4,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1100 Mitte",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-31716369652469",
+        "OBJECTID": 4,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.414167,
+              52.517099
+            ],
+            [
+              13.41436,
+              52.51659
+            ],
+            [
+              13.414746,
+              52.516139
+            ],
+            [
+              13.415599,
+              52.516319
+            ],
+            [
+              13.416329,
+              52.516492
+            ],
+            [
+              13.4159,
+              52.517363
+            ],
+            [
+              13.414167,
+              52.517099
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 5,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1400 Moabit",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-41716369652469",
+        "OBJECTID": 5,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.33271,
+              52.52312
+            ],
+            [
+              13.332442,
+              52.52232
+            ],
+            [
+              13.333981,
+              52.521987
+            ],
+            [
+              13.334078,
+              52.523041
+            ],
+            [
+              13.33271,
+              52.52312
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 6,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1500 Urban",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-51716369652469",
+        "OBJECTID": 6,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.402551,
+              52.495969
+            ],
+            [
+              13.4024,
+              52.495279
+            ],
+            [
+              13.403714,
+              52.495207
+            ],
+            [
+              13.403875,
+              52.495887
+            ],
+            [
+              13.402551,
+              52.495969
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 7,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1600 Kreuzberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-61716369652469",
+        "OBJECTID": 7,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.427773,
+              52.498702
+            ],
+            [
+              13.429644,
+              52.498081
+            ],
+            [
+              13.430637,
+              52.499038
+            ],
+            [
+              13.429473,
+              52.499231
+            ],
+            [
+              13.428336,
+              52.49913
+            ],
+            [
+              13.427773,
+              52.498702
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 8,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1700 Tiergarten",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-71716369652469",
+        "OBJECTID": 8,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.366708,
+              52.522203
+            ],
+            [
+              13.365219,
+              52.521481
+            ],
+            [
+              13.365921,
+              52.520959
+            ],
+            [
+              13.367518,
+              52.521708
+            ],
+            [
+              13.366708,
+              52.522203
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 9,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2100 Schillerpark",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-81716369652469",
+        "OBJECTID": 9,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.351935,
+              52.55412
+            ],
+            [
+              13.351088,
+              52.553503
+            ],
+            [
+              13.351871,
+              52.553138
+            ],
+            [
+              13.352659,
+              52.553732
+            ],
+            [
+              13.351935,
+              52.55412
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 10,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2200 Wittenau",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-91716369652469",
+        "OBJECTID": 10,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.34014,
+              52.5876
+            ],
+            [
+              13.340681,
+              52.58688
+            ],
+            [
+              13.342607,
+              52.587366
+            ],
+            [
+              13.342054,
+              52.588034
+            ],
+            [
+              13.34014,
+              52.5876
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 11,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2300 Hermsdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-101716369652469",
+        "OBJECTID": 11,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.308005,
+              52.615788
+            ],
+            [
+              13.30881,
+              52.615022
+            ],
+            [
+              13.309894,
+              52.615436
+            ],
+            [
+              13.309035,
+              52.616175
+            ],
+            [
+              13.308005,
+              52.615788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 12,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2400 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-111716369652469",
+        "OBJECTID": 12,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.285355,
+              52.586819
+            ],
+            [
+              13.285607,
+              52.58603
+            ],
+            [
+              13.286849,
+              52.586149
+            ],
+            [
+              13.286875,
+              52.586279
+            ],
+            [
+              13.286344,
+              52.586958
+            ],
+            [
+              13.285355,
+              52.586819
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 13,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2500 Wedding",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-121716369652469",
+        "OBJECTID": 13,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.369485,
+              52.544049
+            ],
+            [
+              13.369603,
+              52.542891
+            ],
+            [
+              13.37085,
+              52.542952
+            ],
+            [
+              13.370879,
+              52.543618
+            ],
+            [
+              13.370756,
+              52.543956
+            ],
+            [
+              13.369485,
+              52.544049
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 14,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2600 Pankow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-131716369652469",
+        "OBJECTID": 14,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.428694,
+              52.5824
+            ],
+            [
+              13.42881,
+              52.581628
+            ],
+            [
+              13.429778,
+              52.581733
+            ],
+            [
+              13.430103,
+              52.582171
+            ],
+            [
+              13.429888,
+              52.582487
+            ],
+            [
+              13.428694,
+              52.5824
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 15,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3100 Spandau Nord",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-141716369652469",
+        "OBJECTID": 15,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.209307,
+              52.544966
+            ],
+            [
+              13.209704,
+              52.545573
+            ],
+            [
+              13.211323,
+              52.545221
+            ],
+            [
+              13.210969,
+              52.544536
+            ],
+            [
+              13.209307,
+              52.544966
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 16,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3200 Spandau-Süd",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-151716369652469",
+        "OBJECTID": 16,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.203264,
+              52.52116
+            ],
+            [
+              13.205892,
+              52.521513
+            ],
+            [
+              13.206063,
+              52.520318
+            ],
+            [
+              13.203425,
+              52.520363
+            ],
+            [
+              13.203264,
+              52.52116
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 17,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3300 Suarez",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-161716369652469",
+        "OBJECTID": 17,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.295244,
+              52.508948
+            ],
+            [
+              13.296137,
+              52.508584
+            ],
+            [
+              13.296577,
+              52.509345
+            ],
+            [
+              13.295748,
+              52.509583
+            ],
+            [
+              13.295244,
+              52.508948
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 18,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3400 Wilmersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-171716369652469",
+        "OBJECTID": 18,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.320092,
+              52.487678
+            ],
+            [
+              13.320095,
+              52.487123
+            ],
+            [
+              13.321208,
+              52.487124
+            ],
+            [
+              13.321167,
+              52.487676
+            ],
+            [
+              13.320092,
+              52.487678
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 19,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3500 Ranke",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-181716369652469",
+        "OBJECTID": 19,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.332049,
+              52.502166
+            ],
+            [
+              13.331604,
+              52.501688
+            ],
+            [
+              13.332682,
+              52.501248
+            ],
+            [
+              13.333226,
+              52.501786
+            ],
+            [
+              13.332087,
+              52.502202
+            ],
+            [
+              13.332049,
+              52.502166
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 20,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3600 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-191716369652469",
+        "OBJECTID": 20,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.283728,
+              52.553712
+            ],
+            [
+              13.283985,
+              52.552867
+            ],
+            [
+              13.284339,
+              52.552661
+            ],
+            [
+              13.285508,
+              52.553187
+            ],
+            [
+              13.284634,
+              52.553839
+            ],
+            [
+              13.283728,
+              52.553712
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 21,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4100 Zehlendorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-201716369652469",
+        "OBJECTID": 21,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.264575,
+              52.438101
+            ],
+            [
+              13.264028,
+              52.436975
+            ],
+            [
+              13.26583,
+              52.436612
+            ],
+            [
+              13.266409,
+              52.437754
+            ],
+            [
+              13.264575,
+              52.438101
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 22,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4200 Steglitz",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-211716369652469",
+        "OBJECTID": 22,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.32978,
+              52.456267
+            ],
+            [
+              13.329228,
+              52.455726
+            ],
+            [
+              13.330196,
+              52.455302
+            ],
+            [
+              13.331143,
+              52.45611
+            ],
+            [
+              13.32978,
+              52.456267
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 23,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4300 Tempelhof",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-221716369652469",
+        "OBJECTID": 23,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.383564,
+              52.467153
+            ],
+            [
+              13.383588,
+              52.466281
+            ],
+            [
+              13.384666,
+              52.466291
+            ],
+            [
+              13.384591,
+              52.467187
+            ],
+            [
+              13.383564,
+              52.467153
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 24,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4500 Wannsee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-231716369652469",
+        "OBJECTID": 24,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.182014,
+              52.43033
+            ],
+            [
+              13.181971,
+              52.429129
+            ],
+            [
+              13.185232,
+              52.429031
+            ],
+            [
+              13.185237,
+              52.430268
+            ],
+            [
+              13.182014,
+              52.43033
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 25,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4600 Lichterfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-241716369652469",
+        "OBJECTID": 25,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.314964,
+              52.429904
+            ],
+            [
+              13.315157,
+              52.429156
+            ],
+            [
+              13.317095,
+              52.429326
+            ],
+            [
+              13.316779,
+              52.430106
+            ],
+            [
+              13.314964,
+              52.429904
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 26,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4700 Marienfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-251716369652469",
+        "OBJECTID": 26,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.379592,
+              52.430159
+            ],
+            [
+              13.379468,
+              52.429418
+            ],
+            [
+              13.381388,
+              52.429287
+            ],
+            [
+              13.381495,
+              52.430034
+            ],
+            [
+              13.379592,
+              52.430159
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 27,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5100 Neukölln",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-261716369652469",
+        "OBJECTID": 27,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.438732,
+              52.469565
+            ],
+            [
+              13.437852,
+              52.46884
+            ],
+            [
+              13.437954,
+              52.468627
+            ],
+            [
+              13.439719,
+              52.468849
+            ],
+            [
+              13.43952,
+              52.469673
+            ],
+            [
+              13.438732,
+              52.469565
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 28,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5200 Buckow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-271716369652469",
+        "OBJECTID": 28,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.467252,
+              52.434353
+            ],
+            [
+              13.467914,
+              52.433764
+            ],
+            [
+              13.468994,
+              52.43419
+            ],
+            [
+              13.468142,
+              52.434687
+            ],
+            [
+              13.467252,
+              52.434353
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 29,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5300 Treptow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-281716369652469",
+        "OBJECTID": 29,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.508744,
+              52.450454
+            ],
+            [
+              13.510299,
+              52.450692
+            ],
+            [
+              13.511543,
+              52.44927
+            ],
+            [
+              13.509307,
+              52.448805
+            ],
+            [
+              13.508862,
+              52.449574
+            ],
+            [
+              13.508744,
+              52.450454
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 30,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5400 Köpenick",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-291716369652469",
+        "OBJECTID": 30,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.578406,
+              52.448224
+            ],
+            [
+              13.580143,
+              52.447661
+            ],
+            [
+              13.580508,
+              52.446909
+            ],
+            [
+              13.57847,
+              52.446886
+            ],
+            [
+              13.578406,
+              52.448224
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 31,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6100 Marzahn",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-301716369652469",
+        "OBJECTID": 31,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.536039,
+              52.53719
+            ],
+            [
+              13.535042,
+              52.534664
+            ],
+            [
+              13.537273,
+              52.534514
+            ],
+            [
+              13.538045,
+              52.536968
+            ],
+            [
+              13.536039,
+              52.53719
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 32,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6200 Hellersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-311716369652469",
+        "OBJECTID": 32,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.581833,
+              52.526191
+            ],
+            [
+              13.581163,
+              52.525297
+            ],
+            [
+              13.582429,
+              52.524931
+            ],
+            [
+              13.583206,
+              52.525861
+            ],
+            [
+              13.581833,
+              52.526191
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 33,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6300 Weißensee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-321716369652469",
+        "OBJECTID": 33,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.459813,
+              52.556972
+            ],
+            [
+              13.461391,
+              52.556872
+            ],
+            [
+              13.461434,
+              52.556119
+            ],
+            [
+              13.460989,
+              52.555678
+            ],
+            [
+              13.460833,
+              52.555502
+            ],
+            [
+              13.459019,
+              52.556205
+            ],
+            [
+              13.459813,
+              52.556972
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 34,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6400 Lichtenberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-331716369652469",
+        "OBJECTID": 34,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.491675,
+              52.524705
+            ],
+            [
+              13.491579,
+              52.522942
+            ],
+            [
+              13.493681,
+              52.522844
+            ],
+            [
+              13.49381,
+              52.524711
+            ],
+            [
+              13.491675,
+              52.524705
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 35,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6500 Karlshorst",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-341716369652469",
+        "OBJECTID": 35,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.52039,
+              52.484517
+            ],
+            [
+              13.519516,
+              52.483739
+            ],
+            [
+              13.52054,
+              52.483272
+            ],
+            [
+              13.521516,
+              52.484066
+            ],
+            [
+              13.52039,
+              52.484517
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 36,
+      "type": "Feature",
+      "properties": {
+        "displayName": "Nikolaus Groß Weg 2",
+        "color": "#00abe7",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": false,
+        "deletable": true,
+        "portalid": "uid-351716369652469",
+        "OBJECTID": 36,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.282289,
+              52.53356
+            ],
+            [
+              13.281442,
+              52.531319
+            ],
+            [
+              13.282735,
+              52.531136
+            ],
+            [
+              13.282874,
+              52.531492
+            ],
+            [
+              13.2834,
+              52.53172
+            ],
+            [
+              13.283598,
+              52.532321
+            ],
+            [
+              13.285502,
+              52.532024
+            ],
+            [
+              13.285942,
+              52.533133
+            ],
+            [
+              13.282322,
+              52.533688
+            ],
+            [
+              13.282289,
+              52.53356
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 37,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 1204 Am Friedrichshain",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-361716369652469",
+        "OBJECTID": 37,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.440982,
+              52.525497
+            ],
+            [
+              13.441369,
+              52.525129
+            ],
+            [
+              13.442093,
+              52.525413
+            ],
+            [
+              13.441696,
+              52.525776
+            ],
+            [
+              13.440982,
+              52.525497
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 38,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3503 Budapester Straße",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-371716369652469",
+        "OBJECTID": 38,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.344319,
+              52.506507
+            ],
+            [
+              13.344636,
+              52.505884
+            ],
+            [
+              13.345928,
+              52.50613
+            ],
+            [
+              13.345623,
+              52.506691
+            ],
+            [
+              13.344319,
+              52.506507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 39,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3404 Schmargendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-381716369652469",
+        "OBJECTID": 39,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.291688,
+              52.490141
+            ],
+            [
+              13.292479,
+              52.490552
+            ],
+            [
+              13.291975,
+              52.49082
+            ],
+            [
+              13.291264,
+              52.490501
+            ],
+            [
+              13.291688,
+              52.490141
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 40,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3304 Westend",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-391716369652469",
+        "OBJECTID": 40,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.278746,
+              52.520775
+            ],
+            [
+              13.278789,
+              52.520424
+            ],
+            [
+              13.279419,
+              52.520457
+            ],
+            [
+              13.279367,
+              52.520814
+            ],
+            [
+              13.278746,
+              52.520775
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 41,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6204 Kaulsdorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-401716369652469",
+        "OBJECTID": 41,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.593411,
+              52.50799
+            ],
+            [
+              13.593178,
+              52.507645
+            ],
+            [
+              13.593679,
+              52.507531
+            ],
+            [
+              13.593923,
+              52.507913
+            ],
+            [
+              13.593411,
+              52.50799
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 42,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6106 Unfallkrankenhaus Berlin",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-411716369652469",
+        "OBJECTID": 42,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.566332,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.518746
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 43,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3504 Tiergarten Süd",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-421716369652469",
+        "OBJECTID": 43,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.363445,
+              52.503788
+            ],
+            [
+              13.363311,
+              52.503522
+            ],
+            [
+              13.363811,
+              52.503437
+            ],
+            [
+              13.363949,
+              52.503731
+            ],
+            [
+              13.363445,
+              52.503788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 44,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 2704 Buch",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-431716369652469",
+        "OBJECTID": 44,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.506899,
+              52.631751
+            ],
+            [
+              13.50754,
+              52.631377
+            ],
+            [
+              13.50821,
+              52.631768
+            ],
+            [
+              13.507548,
+              52.632118
+            ],
+            [
+              13.506899,
+              52.631751
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 45,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3104 Falkenhagener Feld",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-441716369652469",
+        "OBJECTID": 45,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.155232,
+              52.564468
+            ],
+            [
+              13.1551,
+              52.564196
+            ],
+            [
+              13.155358,
+              52.563956
+            ],
+            [
+              13.155733,
+              52.563956
+            ],
+            [
+              13.156042,
+              52.564357
+            ],
+            [
+              13.155454,
+              52.564559
+            ],
+            [
+              13.155232,
+              52.564468
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 46,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3103 Lynar",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-451716369652469",
+        "OBJECTID": 46,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.206397,
+              52.549053
+            ],
+            [
+              13.20645,
+              52.54873
+            ],
+            [
+              13.20722,
+              52.548779
+            ],
+            [
+              13.207161,
+              52.549061
+            ],
+            [
+              13.206397,
+              52.549053
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 47,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3690 Siemensstadt",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-461716369652469",
+        "OBJECTID": 47,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.24713,
+              52.544431
+            ],
+            [
+              13.24691,
+              52.543802
+            ],
+            [
+              13.248417,
+              52.543645
+            ],
+            [
+              13.248594,
+              52.544301
+            ],
+            [
+              13.24713,
+              52.544431
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 48,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4604 Lankwitz",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-471716369652469",
+        "OBJECTID": 48,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.35033,
+              52.42507
+            ],
+            [
+              13.350521,
+              52.424717
+            ],
+            [
+              13.351087,
+              52.424845
+            ],
+            [
+              13.350947,
+              52.425162
+            ],
+            [
+              13.35033,
+              52.42507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 49,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4390 Mariendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-481716369652469",
+        "OBJECTID": 49,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.37977,
+              52.444303
+            ],
+            [
+              13.380151,
+              52.443571
+            ],
+            [
+              13.381511,
+              52.443682
+            ],
+            [
+              13.381315,
+              52.444574
+            ],
+            [
+              13.379872,
+              52.444481
+            ],
+            [
+              13.37977,
+              52.444303
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 50,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW  5390 Adlershof",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-491716369652469",
+        "OBJECTID": 50,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.548602,
+              52.431855
+            ],
+            [
+              13.548992,
+              52.431574
+            ],
+            [
+              13.549423,
+              52.43179
+            ],
+            [
+              13.549038,
+              52.432035
+            ],
+            [
+              13.548602,
+              52.431855
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 51,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW Bohnsdorf 5304",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-501716369652469",
+        "OBJECTID": 51,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.570569,
+              52.405679
+            ],
+            [
+              13.570679,
+              52.40539
+            ],
+            [
+              13.571435,
+              52.405486
+            ],
+            [
+              13.571291,
+              52.405771
+            ],
+            [
+              13.570569,
+              52.405679
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 52,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Hohenschönhausen 6310",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-521716369652469",
+        "OBJECTID": 52,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.507613,
+              52.545592
+            ],
+            [
+              13.507591,
+              52.545288
+            ],
+            [
+              13.507634,
+              52.544832
+            ],
+            [
+              13.508707,
+              52.544995
+            ],
+            [
+              13.508363,
+              52.545784
+            ],
+            [
+              13.507701,
+              52.545776
+            ],
+            [
+              13.507613,
+              52.545592
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 53,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4400 Schöneberg",
+        "color": "#f00505",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-01716369679319",
+        "OBJECTID": 53,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.356239,
+              52.484559
+            ],
+            [
+              13.357172,
+              52.483895
+            ],
+            [
+              13.357859,
+              52.484232
+            ],
+            [
+              13.356883,
+              52.484935
+            ],
+            [
+              13.356239,
+              52.484559
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 54,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1300 Prenzlauer Berg ",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-11716369679320",
+        "OBJECTID": 54,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.406486,
+              52.540594
+            ],
+            [
+              13.405765,
+              52.539878
+            ],
+            [
+              13.406939,
+              52.539458
+            ],
+            [
+              13.407794,
+              52.540312
+            ],
+            [
+              13.406526,
+              52.540636
+            ],
+            [
+              13.406486,
+              52.540594
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 55,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1200 Friedrichshain",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-21716369679320",
+        "OBJECTID": 55,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.443151,
+              52.51198
+            ],
+            [
+              13.443564,
+              52.511686
+            ],
+            [
+              13.444611,
+              52.51131
+            ],
+            [
+              13.445013,
+              52.51118
+            ],
+            [
+              13.445356,
+              52.511314
+            ],
+            [
+              13.446273,
+              52.511673
+            ],
+            [
+              13.445388,
+              52.512666
+            ],
+            [
+              13.443151,
+              52.51198
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 56,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1100 Mitte",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-31716369679320",
+        "OBJECTID": 56,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.414167,
+              52.517099
+            ],
+            [
+              13.41436,
+              52.51659
+            ],
+            [
+              13.414746,
+              52.516139
+            ],
+            [
+              13.415599,
+              52.516319
+            ],
+            [
+              13.416329,
+              52.516492
+            ],
+            [
+              13.4159,
+              52.517363
+            ],
+            [
+              13.414167,
+              52.517099
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 57,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1400 Moabit",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-41716369679320",
+        "OBJECTID": 57,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.33271,
+              52.52312
+            ],
+            [
+              13.332442,
+              52.52232
+            ],
+            [
+              13.333981,
+              52.521987
+            ],
+            [
+              13.334078,
+              52.523041
+            ],
+            [
+              13.33271,
+              52.52312
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 58,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1500 Urban",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-51716369679320",
+        "OBJECTID": 58,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.402551,
+              52.495969
+            ],
+            [
+              13.4024,
+              52.495279
+            ],
+            [
+              13.403714,
+              52.495207
+            ],
+            [
+              13.403875,
+              52.495887
+            ],
+            [
+              13.402551,
+              52.495969
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 59,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1600 Kreuzberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-61716369679320",
+        "OBJECTID": 59,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.427773,
+              52.498702
+            ],
+            [
+              13.429644,
+              52.498081
+            ],
+            [
+              13.430637,
+              52.499038
+            ],
+            [
+              13.429473,
+              52.499231
+            ],
+            [
+              13.428336,
+              52.49913
+            ],
+            [
+              13.427773,
+              52.498702
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 60,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1700 Tiergarten",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-71716369679320",
+        "OBJECTID": 60,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.366708,
+              52.522203
+            ],
+            [
+              13.365219,
+              52.521481
+            ],
+            [
+              13.365921,
+              52.520959
+            ],
+            [
+              13.367518,
+              52.521708
+            ],
+            [
+              13.366708,
+              52.522203
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 61,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2100 Schillerpark",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-81716369679320",
+        "OBJECTID": 61,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.351935,
+              52.55412
+            ],
+            [
+              13.351088,
+              52.553503
+            ],
+            [
+              13.351871,
+              52.553138
+            ],
+            [
+              13.352659,
+              52.553732
+            ],
+            [
+              13.351935,
+              52.55412
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 62,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2200 Wittenau",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-91716369679320",
+        "OBJECTID": 62,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.34014,
+              52.5876
+            ],
+            [
+              13.340681,
+              52.58688
+            ],
+            [
+              13.342607,
+              52.587366
+            ],
+            [
+              13.342054,
+              52.588034
+            ],
+            [
+              13.34014,
+              52.5876
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 63,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2300 Hermsdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-101716369679320",
+        "OBJECTID": 63,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.308005,
+              52.615788
+            ],
+            [
+              13.30881,
+              52.615022
+            ],
+            [
+              13.309894,
+              52.615436
+            ],
+            [
+              13.309035,
+              52.616175
+            ],
+            [
+              13.308005,
+              52.615788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 64,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2400 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-111716369679320",
+        "OBJECTID": 64,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.285355,
+              52.586819
+            ],
+            [
+              13.285607,
+              52.58603
+            ],
+            [
+              13.286849,
+              52.586149
+            ],
+            [
+              13.286875,
+              52.586279
+            ],
+            [
+              13.286344,
+              52.586958
+            ],
+            [
+              13.285355,
+              52.586819
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 65,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2500 Wedding",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-121716369679320",
+        "OBJECTID": 65,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.369485,
+              52.544049
+            ],
+            [
+              13.369603,
+              52.542891
+            ],
+            [
+              13.37085,
+              52.542952
+            ],
+            [
+              13.370879,
+              52.543618
+            ],
+            [
+              13.370756,
+              52.543956
+            ],
+            [
+              13.369485,
+              52.544049
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 66,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2600 Pankow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-131716369679320",
+        "OBJECTID": 66,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.428694,
+              52.5824
+            ],
+            [
+              13.42881,
+              52.581628
+            ],
+            [
+              13.429778,
+              52.581733
+            ],
+            [
+              13.430103,
+              52.582171
+            ],
+            [
+              13.429888,
+              52.582487
+            ],
+            [
+              13.428694,
+              52.5824
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 67,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3100 Spandau Nord",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-141716369679320",
+        "OBJECTID": 67,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.209307,
+              52.544966
+            ],
+            [
+              13.209704,
+              52.545573
+            ],
+            [
+              13.211323,
+              52.545221
+            ],
+            [
+              13.210969,
+              52.544536
+            ],
+            [
+              13.209307,
+              52.544966
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 68,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3200 Spandau-Süd",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-151716369679320",
+        "OBJECTID": 68,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.203264,
+              52.52116
+            ],
+            [
+              13.205892,
+              52.521513
+            ],
+            [
+              13.206063,
+              52.520318
+            ],
+            [
+              13.203425,
+              52.520363
+            ],
+            [
+              13.203264,
+              52.52116
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 69,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3300 Suarez",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-161716369679320",
+        "OBJECTID": 69,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.295244,
+              52.508948
+            ],
+            [
+              13.296137,
+              52.508584
+            ],
+            [
+              13.296577,
+              52.509345
+            ],
+            [
+              13.295748,
+              52.509583
+            ],
+            [
+              13.295244,
+              52.508948
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 70,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3400 Wilmersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-171716369679320",
+        "OBJECTID": 70,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.320092,
+              52.487678
+            ],
+            [
+              13.320095,
+              52.487123
+            ],
+            [
+              13.321208,
+              52.487124
+            ],
+            [
+              13.321167,
+              52.487676
+            ],
+            [
+              13.320092,
+              52.487678
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 71,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3500 Ranke",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-181716369679320",
+        "OBJECTID": 71,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.332049,
+              52.502166
+            ],
+            [
+              13.331604,
+              52.501688
+            ],
+            [
+              13.332682,
+              52.501248
+            ],
+            [
+              13.333226,
+              52.501786
+            ],
+            [
+              13.332087,
+              52.502202
+            ],
+            [
+              13.332049,
+              52.502166
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 72,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3600 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-191716369679320",
+        "OBJECTID": 72,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.283728,
+              52.553712
+            ],
+            [
+              13.283985,
+              52.552867
+            ],
+            [
+              13.284339,
+              52.552661
+            ],
+            [
+              13.285508,
+              52.553187
+            ],
+            [
+              13.284634,
+              52.553839
+            ],
+            [
+              13.283728,
+              52.553712
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 73,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4100 Zehlendorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-201716369679320",
+        "OBJECTID": 73,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.264575,
+              52.438101
+            ],
+            [
+              13.264028,
+              52.436975
+            ],
+            [
+              13.26583,
+              52.436612
+            ],
+            [
+              13.266409,
+              52.437754
+            ],
+            [
+              13.264575,
+              52.438101
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 74,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4200 Steglitz",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-211716369679320",
+        "OBJECTID": 74,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.32978,
+              52.456267
+            ],
+            [
+              13.329228,
+              52.455726
+            ],
+            [
+              13.330196,
+              52.455302
+            ],
+            [
+              13.331143,
+              52.45611
+            ],
+            [
+              13.32978,
+              52.456267
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 75,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4300 Tempelhof",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-221716369679320",
+        "OBJECTID": 75,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.383564,
+              52.467153
+            ],
+            [
+              13.383588,
+              52.466281
+            ],
+            [
+              13.384666,
+              52.466291
+            ],
+            [
+              13.384591,
+              52.467187
+            ],
+            [
+              13.383564,
+              52.467153
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 76,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4500 Wannsee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-231716369679320",
+        "OBJECTID": 76,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.182014,
+              52.43033
+            ],
+            [
+              13.181971,
+              52.429129
+            ],
+            [
+              13.185232,
+              52.429031
+            ],
+            [
+              13.185237,
+              52.430268
+            ],
+            [
+              13.182014,
+              52.43033
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 77,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4600 Lichterfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-241716369679320",
+        "OBJECTID": 77,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.314964,
+              52.429904
+            ],
+            [
+              13.315157,
+              52.429156
+            ],
+            [
+              13.317095,
+              52.429326
+            ],
+            [
+              13.316779,
+              52.430106
+            ],
+            [
+              13.314964,
+              52.429904
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 78,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4700 Marienfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-251716369679320",
+        "OBJECTID": 78,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.379592,
+              52.430159
+            ],
+            [
+              13.379468,
+              52.429418
+            ],
+            [
+              13.381388,
+              52.429287
+            ],
+            [
+              13.381495,
+              52.430034
+            ],
+            [
+              13.379592,
+              52.430159
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 79,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5100 Neukölln",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-261716369679320",
+        "OBJECTID": 79,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.438732,
+              52.469565
+            ],
+            [
+              13.437852,
+              52.46884
+            ],
+            [
+              13.437954,
+              52.468627
+            ],
+            [
+              13.439719,
+              52.468849
+            ],
+            [
+              13.43952,
+              52.469673
+            ],
+            [
+              13.438732,
+              52.469565
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 80,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5200 Buckow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-271716369679320",
+        "OBJECTID": 80,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.467252,
+              52.434353
+            ],
+            [
+              13.467914,
+              52.433764
+            ],
+            [
+              13.468994,
+              52.43419
+            ],
+            [
+              13.468142,
+              52.434687
+            ],
+            [
+              13.467252,
+              52.434353
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 81,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5300 Treptow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-281716369679320",
+        "OBJECTID": 81,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.508744,
+              52.450454
+            ],
+            [
+              13.510299,
+              52.450692
+            ],
+            [
+              13.511543,
+              52.44927
+            ],
+            [
+              13.509307,
+              52.448805
+            ],
+            [
+              13.508862,
+              52.449574
+            ],
+            [
+              13.508744,
+              52.450454
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 82,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5400 Köpenick",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-291716369679320",
+        "OBJECTID": 82,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.578406,
+              52.448224
+            ],
+            [
+              13.580143,
+              52.447661
+            ],
+            [
+              13.580508,
+              52.446909
+            ],
+            [
+              13.57847,
+              52.446886
+            ],
+            [
+              13.578406,
+              52.448224
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 83,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6100 Marzahn",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-301716369679320",
+        "OBJECTID": 83,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.536039,
+              52.53719
+            ],
+            [
+              13.535042,
+              52.534664
+            ],
+            [
+              13.537273,
+              52.534514
+            ],
+            [
+              13.538045,
+              52.536968
+            ],
+            [
+              13.536039,
+              52.53719
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 84,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6200 Hellersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-311716369679320",
+        "OBJECTID": 84,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.581833,
+              52.526191
+            ],
+            [
+              13.581163,
+              52.525297
+            ],
+            [
+              13.582429,
+              52.524931
+            ],
+            [
+              13.583206,
+              52.525861
+            ],
+            [
+              13.581833,
+              52.526191
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 85,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6300 Weißensee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-321716369679320",
+        "OBJECTID": 85,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.459813,
+              52.556972
+            ],
+            [
+              13.461391,
+              52.556872
+            ],
+            [
+              13.461434,
+              52.556119
+            ],
+            [
+              13.460989,
+              52.555678
+            ],
+            [
+              13.460833,
+              52.555502
+            ],
+            [
+              13.459019,
+              52.556205
+            ],
+            [
+              13.459813,
+              52.556972
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 86,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6400 Lichtenberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-331716369679320",
+        "OBJECTID": 86,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.491675,
+              52.524705
+            ],
+            [
+              13.491579,
+              52.522942
+            ],
+            [
+              13.493681,
+              52.522844
+            ],
+            [
+              13.49381,
+              52.524711
+            ],
+            [
+              13.491675,
+              52.524705
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 87,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6500 Karlshorst",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-341716369679320",
+        "OBJECTID": 87,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.52039,
+              52.484517
+            ],
+            [
+              13.519516,
+              52.483739
+            ],
+            [
+              13.52054,
+              52.483272
+            ],
+            [
+              13.521516,
+              52.484066
+            ],
+            [
+              13.52039,
+              52.484517
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 88,
+      "type": "Feature",
+      "properties": {
+        "displayName": "Nikolaus Groß Weg 2",
+        "color": "#00abe7",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": false,
+        "deletable": true,
+        "portalid": "uid-351716369679320",
+        "OBJECTID": 88,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.282289,
+              52.53356
+            ],
+            [
+              13.281442,
+              52.531319
+            ],
+            [
+              13.282735,
+              52.531136
+            ],
+            [
+              13.282874,
+              52.531492
+            ],
+            [
+              13.2834,
+              52.53172
+            ],
+            [
+              13.283598,
+              52.532321
+            ],
+            [
+              13.285502,
+              52.532024
+            ],
+            [
+              13.285942,
+              52.533133
+            ],
+            [
+              13.282322,
+              52.533688
+            ],
+            [
+              13.282289,
+              52.53356
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 89,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 1204 Am Friedrichshain",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-361716369679320",
+        "OBJECTID": 89,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.440982,
+              52.525497
+            ],
+            [
+              13.441369,
+              52.525129
+            ],
+            [
+              13.442093,
+              52.525413
+            ],
+            [
+              13.441696,
+              52.525776
+            ],
+            [
+              13.440982,
+              52.525497
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 90,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3503 Budapester Straße",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-371716369679320",
+        "OBJECTID": 90,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.344319,
+              52.506507
+            ],
+            [
+              13.344636,
+              52.505884
+            ],
+            [
+              13.345928,
+              52.50613
+            ],
+            [
+              13.345623,
+              52.506691
+            ],
+            [
+              13.344319,
+              52.506507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 91,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3404 Schmargendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-381716369679320",
+        "OBJECTID": 91,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.291688,
+              52.490141
+            ],
+            [
+              13.292479,
+              52.490552
+            ],
+            [
+              13.291975,
+              52.49082
+            ],
+            [
+              13.291264,
+              52.490501
+            ],
+            [
+              13.291688,
+              52.490141
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 92,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3304 Westend",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-391716369679320",
+        "OBJECTID": 92,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.278746,
+              52.520775
+            ],
+            [
+              13.278789,
+              52.520424
+            ],
+            [
+              13.279419,
+              52.520457
+            ],
+            [
+              13.279367,
+              52.520814
+            ],
+            [
+              13.278746,
+              52.520775
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 93,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6204 Kaulsdorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-401716369679320",
+        "OBJECTID": 93,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.593411,
+              52.50799
+            ],
+            [
+              13.593178,
+              52.507645
+            ],
+            [
+              13.593679,
+              52.507531
+            ],
+            [
+              13.593923,
+              52.507913
+            ],
+            [
+              13.593411,
+              52.50799
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 94,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6106 Unfallkrankenhaus Berlin",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-411716369679320",
+        "OBJECTID": 94,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.566332,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.518746
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 95,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3504 Tiergarten Süd",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-421716369679320",
+        "OBJECTID": 95,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.363445,
+              52.503788
+            ],
+            [
+              13.363311,
+              52.503522
+            ],
+            [
+              13.363811,
+              52.503437
+            ],
+            [
+              13.363949,
+              52.503731
+            ],
+            [
+              13.363445,
+              52.503788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 96,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 2704 Buch",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-431716369679320",
+        "OBJECTID": 96,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.506899,
+              52.631751
+            ],
+            [
+              13.50754,
+              52.631377
+            ],
+            [
+              13.50821,
+              52.631768
+            ],
+            [
+              13.507548,
+              52.632118
+            ],
+            [
+              13.506899,
+              52.631751
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 97,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3104 Falkenhagener Feld",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-441716369679320",
+        "OBJECTID": 97,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.155232,
+              52.564468
+            ],
+            [
+              13.1551,
+              52.564196
+            ],
+            [
+              13.155358,
+              52.563956
+            ],
+            [
+              13.155733,
+              52.563956
+            ],
+            [
+              13.156042,
+              52.564357
+            ],
+            [
+              13.155454,
+              52.564559
+            ],
+            [
+              13.155232,
+              52.564468
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 98,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3103 Lynar",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-451716369679320",
+        "OBJECTID": 98,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.206397,
+              52.549053
+            ],
+            [
+              13.20645,
+              52.54873
+            ],
+            [
+              13.20722,
+              52.548779
+            ],
+            [
+              13.207161,
+              52.549061
+            ],
+            [
+              13.206397,
+              52.549053
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 99,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3690 Siemensstadt",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-461716369679320",
+        "OBJECTID": 99,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.24713,
+              52.544431
+            ],
+            [
+              13.24691,
+              52.543802
+            ],
+            [
+              13.248417,
+              52.543645
+            ],
+            [
+              13.248594,
+              52.544301
+            ],
+            [
+              13.24713,
+              52.544431
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 100,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4604 Lankwitz",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-471716369679320",
+        "OBJECTID": 100,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.35033,
+              52.42507
+            ],
+            [
+              13.350521,
+              52.424717
+            ],
+            [
+              13.351087,
+              52.424845
+            ],
+            [
+              13.350947,
+              52.425162
+            ],
+            [
+              13.35033,
+              52.42507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 101,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4390 Mariendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-481716369679320",
+        "OBJECTID": 101,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.37977,
+              52.444303
+            ],
+            [
+              13.380151,
+              52.443571
+            ],
+            [
+              13.381511,
+              52.443682
+            ],
+            [
+              13.381315,
+              52.444574
+            ],
+            [
+              13.379872,
+              52.444481
+            ],
+            [
+              13.37977,
+              52.444303
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 102,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW  5390 Adlershof",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-491716369679320",
+        "OBJECTID": 102,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.548602,
+              52.431855
+            ],
+            [
+              13.548992,
+              52.431574
+            ],
+            [
+              13.549423,
+              52.43179
+            ],
+            [
+              13.549038,
+              52.432035
+            ],
+            [
+              13.548602,
+              52.431855
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 103,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW Bohnsdorf 5304",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-501716369679320",
+        "OBJECTID": 103,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.570569,
+              52.405679
+            ],
+            [
+              13.570679,
+              52.40539
+            ],
+            [
+              13.571435,
+              52.405486
+            ],
+            [
+              13.571291,
+              52.405771
+            ],
+            [
+              13.570569,
+              52.405679
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 104,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Falkenberg 6320 ",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-511716369679320",
+        "OBJECTID": 104,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.546051,
+              52.569898
+            ],
+            [
+              13.545825,
+              52.569378
+            ],
+            [
+              13.547204,
+              52.569097
+            ],
+            [
+              13.547445,
+              52.569638
+            ],
+            [
+              13.546051,
+              52.569898
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 105,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Hohenschönhausen 6310",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-521716369679320",
+        "OBJECTID": 105,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.507613,
+              52.545592
+            ],
+            [
+              13.507591,
+              52.545288
+            ],
+            [
+              13.507634,
+              52.544832
+            ],
+            [
+              13.508707,
+              52.544995
+            ],
+            [
+              13.508363,
+              52.545784
+            ],
+            [
+              13.507701,
+              52.545776
+            ],
+            [
+              13.507613,
+              52.545592
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 106,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4400 Schöneberg",
+        "color": "#f00505",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-01716369711420",
+        "OBJECTID": 106,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.356239,
+              52.484559
+            ],
+            [
+              13.357172,
+              52.483895
+            ],
+            [
+              13.357859,
+              52.484232
+            ],
+            [
+              13.356883,
+              52.484935
+            ],
+            [
+              13.356239,
+              52.484559
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 107,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1300 Prenzlauer Berg ",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-11716369711420",
+        "OBJECTID": 107,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.406486,
+              52.540594
+            ],
+            [
+              13.405765,
+              52.539878
+            ],
+            [
+              13.406939,
+              52.539458
+            ],
+            [
+              13.407794,
+              52.540312
+            ],
+            [
+              13.406526,
+              52.540636
+            ],
+            [
+              13.406486,
+              52.540594
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 108,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1200 Friedrichshain",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-21716369711420",
+        "OBJECTID": 108,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.443151,
+              52.51198
+            ],
+            [
+              13.443564,
+              52.511686
+            ],
+            [
+              13.444611,
+              52.51131
+            ],
+            [
+              13.445013,
+              52.51118
+            ],
+            [
+              13.445356,
+              52.511314
+            ],
+            [
+              13.446273,
+              52.511673
+            ],
+            [
+              13.445388,
+              52.512666
+            ],
+            [
+              13.443151,
+              52.51198
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 109,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1100 Mitte",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-31716369711420",
+        "OBJECTID": 109,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.414167,
+              52.517099
+            ],
+            [
+              13.41436,
+              52.51659
+            ],
+            [
+              13.414746,
+              52.516139
+            ],
+            [
+              13.415599,
+              52.516319
+            ],
+            [
+              13.416329,
+              52.516492
+            ],
+            [
+              13.4159,
+              52.517363
+            ],
+            [
+              13.414167,
+              52.517099
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 110,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1400 Moabit",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-41716369711420",
+        "OBJECTID": 110,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.33271,
+              52.52312
+            ],
+            [
+              13.332442,
+              52.52232
+            ],
+            [
+              13.333981,
+              52.521987
+            ],
+            [
+              13.334078,
+              52.523041
+            ],
+            [
+              13.33271,
+              52.52312
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 111,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1500 Urban",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-51716369711420",
+        "OBJECTID": 111,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.402551,
+              52.495969
+            ],
+            [
+              13.4024,
+              52.495279
+            ],
+            [
+              13.403714,
+              52.495207
+            ],
+            [
+              13.403875,
+              52.495887
+            ],
+            [
+              13.402551,
+              52.495969
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 112,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1600 Kreuzberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-61716369711420",
+        "OBJECTID": 112,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.427773,
+              52.498702
+            ],
+            [
+              13.429644,
+              52.498081
+            ],
+            [
+              13.430637,
+              52.499038
+            ],
+            [
+              13.429473,
+              52.499231
+            ],
+            [
+              13.428336,
+              52.49913
+            ],
+            [
+              13.427773,
+              52.498702
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 113,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 1700 Tiergarten",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-71716369711420",
+        "OBJECTID": 113,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.366708,
+              52.522203
+            ],
+            [
+              13.365219,
+              52.521481
+            ],
+            [
+              13.365921,
+              52.520959
+            ],
+            [
+              13.367518,
+              52.521708
+            ],
+            [
+              13.366708,
+              52.522203
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 114,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2100 Schillerpark",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-81716369711420",
+        "OBJECTID": 114,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.351935,
+              52.55412
+            ],
+            [
+              13.351088,
+              52.553503
+            ],
+            [
+              13.351871,
+              52.553138
+            ],
+            [
+              13.352659,
+              52.553732
+            ],
+            [
+              13.351935,
+              52.55412
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 115,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2200 Wittenau",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-91716369711420",
+        "OBJECTID": 115,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.34014,
+              52.5876
+            ],
+            [
+              13.340681,
+              52.58688
+            ],
+            [
+              13.342607,
+              52.587366
+            ],
+            [
+              13.342054,
+              52.588034
+            ],
+            [
+              13.34014,
+              52.5876
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 116,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2300 Hermsdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-101716369711420",
+        "OBJECTID": 116,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.308005,
+              52.615788
+            ],
+            [
+              13.30881,
+              52.615022
+            ],
+            [
+              13.309894,
+              52.615436
+            ],
+            [
+              13.309035,
+              52.616175
+            ],
+            [
+              13.308005,
+              52.615788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 117,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2400 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-111716369711420",
+        "OBJECTID": 117,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.285355,
+              52.586819
+            ],
+            [
+              13.285607,
+              52.58603
+            ],
+            [
+              13.286849,
+              52.586149
+            ],
+            [
+              13.286875,
+              52.586279
+            ],
+            [
+              13.286344,
+              52.586958
+            ],
+            [
+              13.285355,
+              52.586819
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 118,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2500 Wedding",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-121716369711420",
+        "OBJECTID": 118,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.369485,
+              52.544049
+            ],
+            [
+              13.369603,
+              52.542891
+            ],
+            [
+              13.37085,
+              52.542952
+            ],
+            [
+              13.370879,
+              52.543618
+            ],
+            [
+              13.370756,
+              52.543956
+            ],
+            [
+              13.369485,
+              52.544049
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 119,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 2600 Pankow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-131716369711420",
+        "OBJECTID": 119,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.428694,
+              52.5824
+            ],
+            [
+              13.42881,
+              52.581628
+            ],
+            [
+              13.429778,
+              52.581733
+            ],
+            [
+              13.430103,
+              52.582171
+            ],
+            [
+              13.429888,
+              52.582487
+            ],
+            [
+              13.428694,
+              52.5824
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 120,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3100 Spandau Nord",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-141716369711420",
+        "OBJECTID": 120,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.209307,
+              52.544966
+            ],
+            [
+              13.209704,
+              52.545573
+            ],
+            [
+              13.211323,
+              52.545221
+            ],
+            [
+              13.210969,
+              52.544536
+            ],
+            [
+              13.209307,
+              52.544966
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 121,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3200 Spandau-Süd",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-151716369711420",
+        "OBJECTID": 121,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.203264,
+              52.52116
+            ],
+            [
+              13.205892,
+              52.521513
+            ],
+            [
+              13.206063,
+              52.520318
+            ],
+            [
+              13.203425,
+              52.520363
+            ],
+            [
+              13.203264,
+              52.52116
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 122,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3300 Suarez",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-161716369711420",
+        "OBJECTID": 122,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.295244,
+              52.508948
+            ],
+            [
+              13.296137,
+              52.508584
+            ],
+            [
+              13.296577,
+              52.509345
+            ],
+            [
+              13.295748,
+              52.509583
+            ],
+            [
+              13.295244,
+              52.508948
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 123,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3400 Wilmersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-171716369711420",
+        "OBJECTID": 123,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.320092,
+              52.487678
+            ],
+            [
+              13.320095,
+              52.487123
+            ],
+            [
+              13.321208,
+              52.487124
+            ],
+            [
+              13.321167,
+              52.487676
+            ],
+            [
+              13.320092,
+              52.487678
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 124,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3500 Ranke",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-181716369711420",
+        "OBJECTID": 124,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.332049,
+              52.502166
+            ],
+            [
+              13.331604,
+              52.501688
+            ],
+            [
+              13.332682,
+              52.501248
+            ],
+            [
+              13.333226,
+              52.501786
+            ],
+            [
+              13.332087,
+              52.502202
+            ],
+            [
+              13.332049,
+              52.502166
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 125,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 3600 Tegel",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-191716369711420",
+        "OBJECTID": 125,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.283728,
+              52.553712
+            ],
+            [
+              13.283985,
+              52.552867
+            ],
+            [
+              13.284339,
+              52.552661
+            ],
+            [
+              13.285508,
+              52.553187
+            ],
+            [
+              13.284634,
+              52.553839
+            ],
+            [
+              13.283728,
+              52.553712
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 126,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4100 Zehlendorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-201716369711420",
+        "OBJECTID": 126,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.264575,
+              52.438101
+            ],
+            [
+              13.264028,
+              52.436975
+            ],
+            [
+              13.26583,
+              52.436612
+            ],
+            [
+              13.266409,
+              52.437754
+            ],
+            [
+              13.264575,
+              52.438101
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 127,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4200 Steglitz",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-211716369711420",
+        "OBJECTID": 127,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.32978,
+              52.456267
+            ],
+            [
+              13.329228,
+              52.455726
+            ],
+            [
+              13.330196,
+              52.455302
+            ],
+            [
+              13.331143,
+              52.45611
+            ],
+            [
+              13.32978,
+              52.456267
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 128,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4300 Tempelhof",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-221716369711420",
+        "OBJECTID": 128,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.383564,
+              52.467153
+            ],
+            [
+              13.383588,
+              52.466281
+            ],
+            [
+              13.384666,
+              52.466291
+            ],
+            [
+              13.384591,
+              52.467187
+            ],
+            [
+              13.383564,
+              52.467153
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 129,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4500 Wannsee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-231716369711420",
+        "OBJECTID": 129,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.182014,
+              52.43033
+            ],
+            [
+              13.181971,
+              52.429129
+            ],
+            [
+              13.185232,
+              52.429031
+            ],
+            [
+              13.185237,
+              52.430268
+            ],
+            [
+              13.182014,
+              52.43033
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 130,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4600 Lichterfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-241716369711420",
+        "OBJECTID": 130,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.314964,
+              52.429904
+            ],
+            [
+              13.315157,
+              52.429156
+            ],
+            [
+              13.317095,
+              52.429326
+            ],
+            [
+              13.316779,
+              52.430106
+            ],
+            [
+              13.314964,
+              52.429904
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 131,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 4700 Marienfelde",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-251716369711420",
+        "OBJECTID": 131,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.379592,
+              52.430159
+            ],
+            [
+              13.379468,
+              52.429418
+            ],
+            [
+              13.381388,
+              52.429287
+            ],
+            [
+              13.381495,
+              52.430034
+            ],
+            [
+              13.379592,
+              52.430159
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 132,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5100 Neukölln",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-261716369711420",
+        "OBJECTID": 132,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.438732,
+              52.469565
+            ],
+            [
+              13.437852,
+              52.46884
+            ],
+            [
+              13.437954,
+              52.468627
+            ],
+            [
+              13.439719,
+              52.468849
+            ],
+            [
+              13.43952,
+              52.469673
+            ],
+            [
+              13.438732,
+              52.469565
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 133,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5200 Buckow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-271716369711420",
+        "OBJECTID": 133,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.467252,
+              52.434353
+            ],
+            [
+              13.467914,
+              52.433764
+            ],
+            [
+              13.468994,
+              52.43419
+            ],
+            [
+              13.468142,
+              52.434687
+            ],
+            [
+              13.467252,
+              52.434353
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 134,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5300 Treptow",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-281716369711420",
+        "OBJECTID": 134,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.508744,
+              52.450454
+            ],
+            [
+              13.510299,
+              52.450692
+            ],
+            [
+              13.511543,
+              52.44927
+            ],
+            [
+              13.509307,
+              52.448805
+            ],
+            [
+              13.508862,
+              52.449574
+            ],
+            [
+              13.508744,
+              52.450454
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 135,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 5400 Köpenick",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-291716369711420",
+        "OBJECTID": 135,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.578406,
+              52.448224
+            ],
+            [
+              13.580143,
+              52.447661
+            ],
+            [
+              13.580508,
+              52.446909
+            ],
+            [
+              13.57847,
+              52.446886
+            ],
+            [
+              13.578406,
+              52.448224
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 136,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6100 Marzahn",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-301716369711420",
+        "OBJECTID": 136,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.536039,
+              52.53719
+            ],
+            [
+              13.535042,
+              52.534664
+            ],
+            [
+              13.537273,
+              52.534514
+            ],
+            [
+              13.538045,
+              52.536968
+            ],
+            [
+              13.536039,
+              52.53719
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 137,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6200 Hellersdorf",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-311716369711420",
+        "OBJECTID": 137,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.581833,
+              52.526191
+            ],
+            [
+              13.581163,
+              52.525297
+            ],
+            [
+              13.582429,
+              52.524931
+            ],
+            [
+              13.583206,
+              52.525861
+            ],
+            [
+              13.581833,
+              52.526191
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 138,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6300 Weißensee",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-321716369711420",
+        "OBJECTID": 138,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.459813,
+              52.556972
+            ],
+            [
+              13.461391,
+              52.556872
+            ],
+            [
+              13.461434,
+              52.556119
+            ],
+            [
+              13.460989,
+              52.555678
+            ],
+            [
+              13.460833,
+              52.555502
+            ],
+            [
+              13.459019,
+              52.556205
+            ],
+            [
+              13.459813,
+              52.556972
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 139,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6400 Lichtenberg",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-331716369711420",
+        "OBJECTID": 139,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.491675,
+              52.524705
+            ],
+            [
+              13.491579,
+              52.522942
+            ],
+            [
+              13.493681,
+              52.522844
+            ],
+            [
+              13.49381,
+              52.524711
+            ],
+            [
+              13.491675,
+              52.524705
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 140,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FW 6500 Karlshorst",
+        "color": "#ff4c6a",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-341716369711420",
+        "OBJECTID": 140,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.52039,
+              52.484517
+            ],
+            [
+              13.519516,
+              52.483739
+            ],
+            [
+              13.52054,
+              52.483272
+            ],
+            [
+              13.521516,
+              52.484066
+            ],
+            [
+              13.52039,
+              52.484517
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 141,
+      "type": "Feature",
+      "properties": {
+        "displayName": "Nikolaus Groß Weg 2",
+        "color": "#00abe7",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": false,
+        "deletable": true,
+        "portalid": "uid-351716369711420",
+        "OBJECTID": 141,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.282289,
+              52.53356
+            ],
+            [
+              13.281442,
+              52.531319
+            ],
+            [
+              13.282735,
+              52.531136
+            ],
+            [
+              13.282874,
+              52.531492
+            ],
+            [
+              13.2834,
+              52.53172
+            ],
+            [
+              13.283598,
+              52.532321
+            ],
+            [
+              13.285502,
+              52.532024
+            ],
+            [
+              13.285942,
+              52.533133
+            ],
+            [
+              13.282322,
+              52.533688
+            ],
+            [
+              13.282289,
+              52.53356
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 142,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 1204 Am Friedrichshain",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-361716369711420",
+        "OBJECTID": 142,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.440982,
+              52.525497
+            ],
+            [
+              13.441369,
+              52.525129
+            ],
+            [
+              13.442093,
+              52.525413
+            ],
+            [
+              13.441696,
+              52.525776
+            ],
+            [
+              13.440982,
+              52.525497
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 143,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3503 Budapester Straße",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-371716369711420",
+        "OBJECTID": 143,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.344319,
+              52.506507
+            ],
+            [
+              13.344636,
+              52.505884
+            ],
+            [
+              13.345928,
+              52.50613
+            ],
+            [
+              13.345623,
+              52.506691
+            ],
+            [
+              13.344319,
+              52.506507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 144,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3404 Schmargendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-381716369711420",
+        "OBJECTID": 144,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.291688,
+              52.490141
+            ],
+            [
+              13.292479,
+              52.490552
+            ],
+            [
+              13.291975,
+              52.49082
+            ],
+            [
+              13.291264,
+              52.490501
+            ],
+            [
+              13.291688,
+              52.490141
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 145,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3304 Westend",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-391716369711420",
+        "OBJECTID": 145,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.278746,
+              52.520775
+            ],
+            [
+              13.278789,
+              52.520424
+            ],
+            [
+              13.279419,
+              52.520457
+            ],
+            [
+              13.279367,
+              52.520814
+            ],
+            [
+              13.278746,
+              52.520775
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 146,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6204 Kaulsdorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-401716369711420",
+        "OBJECTID": 146,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.593411,
+              52.50799
+            ],
+            [
+              13.593178,
+              52.507645
+            ],
+            [
+              13.593679,
+              52.507531
+            ],
+            [
+              13.593923,
+              52.507913
+            ],
+            [
+              13.593411,
+              52.50799
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 147,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 6106 Unfallkrankenhaus Berlin",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-411716369711420",
+        "OBJECTID": 147,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.566332,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.518746
+            ],
+            [
+              13.567192,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.519238
+            ],
+            [
+              13.566332,
+              52.518746
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 148,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3504 Tiergarten Süd",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-421716369711420",
+        "OBJECTID": 148,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.363445,
+              52.503788
+            ],
+            [
+              13.363311,
+              52.503522
+            ],
+            [
+              13.363811,
+              52.503437
+            ],
+            [
+              13.363949,
+              52.503731
+            ],
+            [
+              13.363445,
+              52.503788
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 149,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 2704 Buch",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-431716369711420",
+        "OBJECTID": 149,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.506899,
+              52.631751
+            ],
+            [
+              13.50754,
+              52.631377
+            ],
+            [
+              13.50821,
+              52.631768
+            ],
+            [
+              13.507548,
+              52.632118
+            ],
+            [
+              13.506899,
+              52.631751
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 150,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3104 Falkenhagener Feld",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-441716369711420",
+        "OBJECTID": 150,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.155232,
+              52.564468
+            ],
+            [
+              13.1551,
+              52.564196
+            ],
+            [
+              13.155358,
+              52.563956
+            ],
+            [
+              13.155733,
+              52.563956
+            ],
+            [
+              13.156042,
+              52.564357
+            ],
+            [
+              13.155454,
+              52.564559
+            ],
+            [
+              13.155232,
+              52.564468
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 151,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3103 Lynar",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-451716369711420",
+        "OBJECTID": 151,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.206397,
+              52.549053
+            ],
+            [
+              13.20645,
+              52.54873
+            ],
+            [
+              13.20722,
+              52.548779
+            ],
+            [
+              13.207161,
+              52.549061
+            ],
+            [
+              13.206397,
+              52.549053
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 152,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 3690 Siemensstadt",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-461716369711420",
+        "OBJECTID": 152,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.24713,
+              52.544431
+            ],
+            [
+              13.24691,
+              52.543802
+            ],
+            [
+              13.248417,
+              52.543645
+            ],
+            [
+              13.248594,
+              52.544301
+            ],
+            [
+              13.24713,
+              52.544431
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 153,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4604 Lankwitz",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-471716369711420",
+        "OBJECTID": 153,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.35033,
+              52.42507
+            ],
+            [
+              13.350521,
+              52.424717
+            ],
+            [
+              13.351087,
+              52.424845
+            ],
+            [
+              13.350947,
+              52.425162
+            ],
+            [
+              13.35033,
+              52.42507
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 154,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW 4390 Mariendorf",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-481716369711420",
+        "OBJECTID": 154,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.37977,
+              52.444303
+            ],
+            [
+              13.380151,
+              52.443571
+            ],
+            [
+              13.381511,
+              52.443682
+            ],
+            [
+              13.381315,
+              52.444574
+            ],
+            [
+              13.379872,
+              52.444481
+            ],
+            [
+              13.37977,
+              52.444303
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 155,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW  5390 Adlershof",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-491716369711420",
+        "OBJECTID": 155,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.548602,
+              52.431855
+            ],
+            [
+              13.548992,
+              52.431574
+            ],
+            [
+              13.549423,
+              52.43179
+            ],
+            [
+              13.549038,
+              52.432035
+            ],
+            [
+              13.548602,
+              52.431855
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 156,
+      "type": "Feature",
+      "properties": {
+        "displayName": "RW Bohnsdorf 5304",
+        "color": "#40dc7e",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-501716369711420",
+        "OBJECTID": 156,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.570569,
+              52.405679
+            ],
+            [
+              13.570679,
+              52.40539
+            ],
+            [
+              13.571435,
+              52.405486
+            ],
+            [
+              13.571291,
+              52.405771
+            ],
+            [
+              13.570569,
+              52.405679
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 157,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Falkenberg 6320 ",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-511716369711420",
+        "OBJECTID": 157,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.546051,
+              52.569898
+            ],
+            [
+              13.545825,
+              52.569378
+            ],
+            [
+              13.547204,
+              52.569097
+            ],
+            [
+              13.547445,
+              52.569638
+            ],
+            [
+              13.546051,
+              52.569898
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 158,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Hohenschönhausen 6310",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "portalid": "uid-521716369711420",
+        "OBJECTID": 158,
+        "geofence_buffer": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.507613,
+              52.545592
+            ],
+            [
+              13.507591,
+              52.545288
+            ],
+            [
+              13.507634,
+              52.544832
+            ],
+            [
+              13.508707,
+              52.544995
+            ],
+            [
+              13.508363,
+              52.545784
+            ],
+            [
+              13.507701,
+              52.545776
+            ],
+            [
+              13.507613,
+              52.545592
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    },
+    {
+      "id": 159,
+      "type": "Feature",
+      "properties": {
+        "displayName": "FF/RW Falkenberg 6320 ",
+        "color": "#ffcd02",
+        "lineStyle": "",
+        "fillPattern": "",
+        "visible": true,
+        "deletable": true,
+        "geofence": null,
+        "fleet": false,
+        "portalid": "uid-511716369652469",
+        "OBJECTID": 159,
+        "geofence_buffer": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "geometries": null,
+        "coordinates": [
+          [
+            [
+              13.546051,
+              52.569898
+            ],
+            [
+              13.545825,
+              52.569378
+            ],
+            [
+              13.547204,
+              52.569097
+            ],
+            [
+              13.547445,
+              52.569638
+            ],
+            [
+              13.546051,
+              52.569898
+            ]
+          ]
+        ],
+        "properties": null
+      }
+    }
+  ]
+}
